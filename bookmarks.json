@@ -1,0 +1,51 @@
+{
+    "apps": [
+        {
+            "name": "Google",
+            "url": "https://www.google.com"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://www.youtube.com"
+        },
+        {
+            "name": "Gmail",
+            "url": "https://mail.google.com/",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
+        },
+        {
+            "name": "Drive",
+            "url": "https://drive.google.com",
+            "icon": "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_48dp.png"
+        },
+        {
+            "name": "Google Calendar",
+            "url": "https://calendar.google.com",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/2048px-Google_Calendar_icon_%282020%29.svg.png"
+        },
+        {
+            "name": "Google Maps",
+            "url": "https://www.google.com/maps",
+            "icon": "https://ssl.gstatic.com/images/branding/product/1x/maps_48dp.png"
+        },
+        {
+            "name": "Traductor",
+            "url": "https://translate.google.com"
+        },
+        {
+            "name": "ADF 249",
+            "url": "https://adf249puigmadronaolorda.great-site.net/",
+            "icon": "media/ADF_logo.png"
+        },
+        {
+            "name": "WhatsApp Web",
+            "url": "https://web.whatsapp.com",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+        },
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com",
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg"
+        }
+    ]
+}

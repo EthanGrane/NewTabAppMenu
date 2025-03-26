@@ -1,0 +1,27 @@
+<div class="modal fade" id="addBookmarkModal" tabindex="-1" aria-labelledby="addBookmarkModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="addBookmarkModalLabel">Agregar Nuevo Marcador</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="addBookmarkForm">
+                    <div class="mb-3">
+                        <label for="bookmark-name" class="form-label">Nombre del Marcador</label>
+                        <input type="text" class="form-control" id="bookmark-name" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="bookmark-url" class="form-label">URL</label>
+                        <input type="url" class="form-control" id="bookmark-url" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="bookmark-icon" class="form-label">Icono (URL opcional)</label>
+                        <input type="url" class="form-control" id="bookmark-icon">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Agregar Marcador</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
