@@ -5,6 +5,7 @@ import App from './App.vue';
 import PrimeVue from 'primevue/config';
 import Aura from '@primeuix/themes/aura';
 import Button from 'primevue/button';
+import Popover from 'primevue/popover';
 import Toast from 'primevue/toast';
 import ToastService from 'primevue/toastservice';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -17,6 +18,7 @@ app.use(PrimeVue, {
     }
 });    
 app.component('Button', Button);
+app.component('Popover', Popover);
 app.component('Toast', Toast);
 app.use(ToastService);
 
